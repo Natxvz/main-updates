@@ -1,8 +1,8 @@
 {
-  "version": "6.2",
+  "version": "6.3",
   "url": "https://github.com/Natxvz/main-updates/releases/download/1.0/RoliBot.exe",
-  "sha256": "2aa2dfc52d1f612560263d58f9c67d9b2a94b0a50f5c92e225df5afb1470d396",
-  "size": 31204083,
-  "notes": "trade ad filter uses exact counts, item names show as name | acronym, fixed the restart after updating.",
-  "signature": "lQrd/mypZkHZ9dRsAY/5akduj5MEPfggO+CJzrqvQIXqpMoRdyy1PYDYetFcDeU0X4LqoDHLMPRRTMVzSb2MDA=="
+  "sha256": "fe86f9cfeb69aabc56ce4cd4ee3d38d13a76b1520b535edf1a533fe510e9ab92",
+  "size": 31205420,
+  "notes": "Skipping an update now only skips it for this launch.",
+  "signature": "J1oSSK67MUmhBphHQNi/moAfIts5Rbdq8tC0w5zpbptjjAtslqkwhawckxtSAOSUim7uDOMM3/obW1zjCBy9Ag=="
 }
