@@ -1,8 +1,8 @@
 {
-  "version": "6.3",
+  "version": "6.4",
   "url": "https://github.com/Natxvz/main-updates/releases/download/1.0/RoliBot.exe",
-  "sha256": "fe86f9cfeb69aabc56ce4cd4ee3d38d13a76b1520b535edf1a533fe510e9ab92",
-  "size": 31205420,
-  "notes": "Skipping an update now only skips it for this launch.",
-  "signature": "J1oSSK67MUmhBphHQNi/moAfIts5Rbdq8tC0w5zpbptjjAtslqkwhawckxtSAOSUim7uDOMM3/obW1zjCBy9Ag=="
+  "sha256": "b559dd23abed3f6e6086e699ef4ce1303cb758128588bb751d92403afbb529be",
+  "size": 31229551,
+  "notes": "Icon follows the menu color, trade ad badge filter, tab fix with animations off, skip only lasts one launch.",
+  "signature": "IeeXDqtuYyY2LT+pklBECLgY2OHXX6HEDVaDS/RfjJmzgdtJp8OExRdTCRNqavHi+EQ0te0z1ZOB/sYOH8bABQ=="
 }
