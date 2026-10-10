@@ -1,8 +1,8 @@
 {
-  "version": "7.1",
+  "version": "7.2",
   "url": "https://github.com/Natxvz/main-updates/releases/download/1.0/RoliBot.exe",
-  "sha256": "1f4ac4e715f01ed0ace26caef983dfc3f90389ece56410dfd034bde3d841eeb5",
-  "size": 31427677,
-  "notes": "None/include any for tags, linked empty slots, greyed out options that don't apply, player lookup fix, new sounds.",
-  "signature": "PiovYdsmixEsAx292M37nNrGZxM1452hmPoV6ht2OQdEHHlBbAl/3RsCYL9usyPI3x/InB0MQhHca3jfQh6nAA=="
+  "sha256": "715683dc146ec3ae878def59532cecc31e6b0c2c331ab76554bf79d0e2e5a6b2",
+  "size": 31432656,
+  "notes": "Player filters moved into the monitor, competition rework, player lookup fallbacks, faster color picker with hex, cleaner menu.",
+  "signature": "t3iGfPDgxDNJB8pMYONdeuP+Ye20VEVIjQgEgF07SgfgE+LD+P6/SOvg3EqVYUQfCKE5EgJz166gue+RzsVUDQ=="
 }
