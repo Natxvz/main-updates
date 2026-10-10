@@ -1,9 +1,8 @@
 {
-  "version": "6.8",
+  "version": "6.9",
   "url": "https://github.com/Natxvz/main-updates/releases/download/1.0/RoliBot.exe",
-  "sha256": "4e34c8d6cd0d1e8c98ffaf036a4fa5d6a826136d73bc956cf7457aa887a520ec",
-  "size": 31264261,
-  "notes": "Fixes scrolling in the item picker, same trade ad option, nothing option, rolimons tag icons, new theme colors.",
-  "mandatory": true,
-  "signature": "Mnh6e+B2s/N7Zezq7L1gbPuEhdCpAGRr4dRw60nEQT6pxgNw+NEl6cvJfMdZRM3rU3I+iAVXsqaQFrYmZ50ADA=="
+  "sha256": "74791baf1168a18a20ca41179a5dc643d641756e93991a59c513a898ebadeaa2",
+  "size": 31263567,
+  "notes": "Clearer match options (at least one of these / all of these), removed same trade ad.",
+  "signature": "2bslG9u6vz1bQSrGH4Kn6LuMGTcpCEdhsr8f9nCm+wxIVMXjTG95zp/3M+DLgSpuUYOmdze1JEjFBtsdKZqVBQ=="
 }
