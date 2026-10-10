@@ -1,8 +1,9 @@
 {
-  "version": "6.9",
+  "version": "7.0",
   "url": "https://github.com/Natxvz/main-updates/releases/download/1.0/RoliBot.exe",
-  "sha256": "74791baf1168a18a20ca41179a5dc643d641756e93991a59c513a898ebadeaa2",
-  "size": 31263567,
-  "notes": "Clearer match options (at least one of these / all of these), removed same trade ad.",
-  "signature": "2bslG9u6vz1bQSrGH4Kn6LuMGTcpCEdhsr8f9nCm+wxIVMXjTG95zp/3M+DLgSpuUYOmdze1JEjFBtsdKZqVBQ=="
+  "sha256": "5cdeaae7d60e7f72aeea57b83a6fa7c0162efe46c33fedc7d0946a201d5e99fa",
+  "size": 31264387,
+  "notes": "Fixes the tag list getting stuck open, clearer match options, tags have their own match setting.",
+  "mandatory": true,
+  "signature": "H7q5Mxjp4y+9W/IlM6ZHsfoPsGY461VgJFXgZsx7Nm8GstYbMxDC9Khtjl6IpjlWxcucPRnmfuy3n8Y+Q2gdCg=="
 }
