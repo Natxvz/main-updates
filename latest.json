@@ -1,8 +1,9 @@
 {
-  "version": "6.5",
+  "version": "6.6",
   "url": "https://github.com/Natxvz/main-updates/releases/download/1.0/RoliBot.exe",
-  "sha256": "05f4cc3d7a3ceacde7f2846d5e2f50d57aa9f2cbc45ecb64233723dce4ae7c4b",
-  "size": 31227716,
-  "notes": "New trading and monitor icons.",
-  "signature": "73q6KfR7hkDKBP1wyleLDsyrt4PJOh0oNed8fQsnG5HLIcTFVwYId8ixTaQGH8geeprgoWyNAKiRjqMiI24zDg=="
+  "sha256": "085020572865d72ee1bf1ab6c666516ba463c2c6efe783f1d4e9ab4a32133df2",
+  "size": 31253921,
+  "notes": "Menu themes (halloween, christmas, new years), menu scales with the window, new slider look, screenshot fixes.",
+  "mandatory": true,
+  "signature": "rnslqI/XkNvUF/abfyZOeHXaqLBm9L1RK7It8azwIN+dhu5fZF0Uznfk/Dc+bqulI/fAAulRnOKO7wsXf3TBBQ=="
 }
