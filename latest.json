@@ -1,9 +1,9 @@
 {
-  "version": "7.3",
+  "version": "7.6",
   "url": "https://github.com/Natxvz/main-updates/releases/download/1.0/RoliBot.exe",
-  "sha256": "0182d8a2e1f92916d3e3db3f8c66d3abbdacf616dbaa55761cb53b934b357ad8",
-  "size": 31362589,
-  "notes": "Settings lock while monitoring, rolibot pop-up notifications, new sounds, screenshot-only webhooks, block and notes in lookup, better scaling, fixes.",
+  "sha256": "5c3f986b02209d69ba7e36aa083eb0019effd153dc96a901a8a995c0e7d3a00b",
+  "size": 31404749,
+  "notes": "rolibot now checks for updates while it's open and updates itself. mandatory updates install after a 10 second countdown.",
   "mandatory": true,
-  "signature": "14aDG5wK924fMF8PTfaR/788FZzC8hr4NdQEE2m+3UBUBSzW4a1gkR675/NHyZgV4XTDlUiUbC9TCT9xFRRgDw=="
+  "signature": "fKTZjYRM90e84CD6Ij/ybf9nk+jPWZtLW8I9HJSesE/+WEwxYyotorgS9M1KwCoUAf4JrDfg17rI1FnDo+0oAQ=="
 }
