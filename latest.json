@@ -1,9 +1,9 @@
 {
-  "version": "7.7",
+  "version": "8.0",
   "url": "https://github.com/Natxvz/main-updates/releases/download/1.0/RoliBot.exe",
-  "sha256": "4d81ae7cfefabdb465b727ca7eef8ff15678134e2759c8fd26865942ed228bc0",
-  "size": 31407394,
-  "notes": "flipper is now sharker. early projected finder fixed: it now checks roblox sales for all unflagged items, not just ones with rap history. rolibot updates itself while open.",
+  "sha256": "4c6393e1279b67405c1ea05291f1598eadf2b24a25337c65326a64770a38d2ca",
+  "size": 31416874,
+  "notes": "new shark icon, menu order changed (sharker is second). early projected finder fixed. rolibot updates itself while open.",
   "mandatory": true,
-  "signature": "71rS++ohIDGX70b1tIGXUvKTVZe4v6sUdFVfFd7sdkpD+yebfjuDffg+SzRUemGEDqzEC9gfVg5dvdB5t/iBBA=="
+  "signature": "t2+Gob5TxJ7dAaCOxpO3/QMN6oEb1JDKwbXiFAonSvQPd5E6XW7Xh7cYglX/geKyLT/4y/jy0gd8zCc3RcwQDw=="
 }
